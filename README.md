@@ -1,1 +1,0 @@
-# full-stack-course-2024
